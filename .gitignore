@@ -167,4 +167,4 @@ cython_debug/
 .ipynb_checkpoints/
 
 _build/
- project_notes.txt
+project_notes.txt
