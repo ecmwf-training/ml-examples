@@ -6,4 +6,3 @@ root: intro
 chapters:
 - file: weatherbench
 - file: Surface_Observation_Prediction
-- file: JN_template_adapted
