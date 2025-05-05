@@ -4,5 +4,5 @@
 format: jb-book
 root: intro
 chapters:
-- file: weatherbench
-- file: Surface_Observation_Prediction
+- file: simple_forecasting
+- file: Surface_Observation_Processing
