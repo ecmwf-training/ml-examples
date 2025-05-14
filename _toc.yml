@@ -4,5 +4,6 @@
 format: jb-book
 root: intro
 chapters:
-- file: simple_forecasting
-- file: Surface_Observation_Processing
+- file: ex_Simple_Forecasting
+- file: ex_Surface_Observation_Processing
+- file: ex_Linear_Regression_Postprocessing
