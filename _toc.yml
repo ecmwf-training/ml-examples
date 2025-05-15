@@ -3,7 +3,11 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: ex_Simple_Forecasting
-- file: ex_Surface_Observation_Processing
-- file: ex_Linear_Regression_Postprocessing
+parts:
+  - caption: Forecasting
+    chapters:
+    - file: ex_Simple_Forecasting
+  - caption: Post-processing
+    chapters:
+    - file: ex_Linear_Regression_Postprocessing
+    - file: ex_Surface_Observation_Processing
