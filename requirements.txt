@@ -1,0 +1,8 @@
+numpy
+scikit-learn
+matplotlib
+climetlab
+xarray
+tensorflow
+torch
+pytorch-lightning
