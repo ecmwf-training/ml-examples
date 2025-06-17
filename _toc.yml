@@ -12,3 +12,6 @@ parts:
     - file: ex_Linear_Regression_Postprocessing
     - file: ex_Random_Forest_Postprocessing
     - file: ex_Surface_Observation_Processing
+  - caption: Uncertainty
+    chapters:
+    - file: ex_BNN_Ocean_Regimes
