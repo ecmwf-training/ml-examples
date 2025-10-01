@@ -167,6 +167,7 @@ cython_debug/
 .ipynb_checkpoints/
 
 _build/
+old_notebooks/
 project_notes.txt
 ex_Random_Forest_Postprocessing_old.ipynb
 ex_Surface_Observation_Processing_old.ipynb
