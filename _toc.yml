@@ -11,6 +11,7 @@ parts:
     chapters:
     - file: ex_Linear_Regression_Postprocessing
     - file: ex_Random_Forest_Postprocessing
+    - file: ex_XGBoost_Postprocessing
     - file: ex_Surface_Observation_Processing
   - caption: Uncertainty
     chapters:
